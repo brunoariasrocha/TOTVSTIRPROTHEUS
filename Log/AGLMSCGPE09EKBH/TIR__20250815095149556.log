@@ -1,0 +1,24 @@
+2025-08-15 09:51:49,570-DEBUG-root-7300::logging_config::logger|188:: Log file created: 'Log\AGLMSCGPE09EKBH\TIR__20250815095149556.log'
+2025-08-15 09:51:49,570-INFO-root-7300::base::Start|1175:: TIR Version: 1.20.30
+2025-08-15 09:51:49,570-INFO-root-7300::base::Start|1176:: Starting the browser
+2025-08-15 09:51:58,511-WARNING-root-7300::webapp_internal::log_error|8172:: Warning log_error Wasn't possible execute Start() method: Message: Reached error page: about:neterror?e=netReset&u=http%3A//lineagroprodutos143570.protheus.cloudtotvs.com.br%3A2203/webapp/&c=UTF-8&d=A%20conex%C3%A3o%20com%20o%20servidor%20foi%20reiniciada%20durante%20o%20carregamento%20da%20p%C3%A1gina.
+
+2025-08-15 09:51:58,511-DEBUG-root-7300::webapp_internal::log_error|8175:: ***System Info*** in log_error():
+2025-08-15 09:51:58,511-DEBUG-root-7300::psutil_info::system_info|5:: CPU USAGE: 56.9%
+2025-08-15 09:51:58,511-DEBUG-root-7300::psutil_info::system_info|6:: MEMORY USAGE: 89.4%
+2025-08-15 09:51:58,511-DEBUG-root-7300::psutil_info::system_info|7:: MEMORY AVAILABLE: 10.6%
+2025-08-15 09:51:58,597-DEBUG-root-7300::log::take_screenshot_log|498:: take_screenshot_log in:2025-08-15 09:51:58.597449
+
+2025-08-15 09:51:58,648-DEBUG-root-7300::log::take_screenshot_log|513:: Screenshot file created successfully: Log\AGLMSCGPE09EKBH\BrunoAriasRocha_20250815095158597_None_error.png
+2025-08-15 09:51:49,570-DEBUG-root-7300::logging_config::logger|188:: Log file created: 'Log\AGLMSCGPE09EKBH\TIR__20250815095149556.log'
+2025-08-15 09:51:49,570-INFO-root-7300::base::Start|1175:: TIR Version: 1.20.30
+2025-08-15 09:51:49,570-INFO-root-7300::base::Start|1176:: Starting the browser
+2025-08-15 09:51:58,511-WARNING-root-7300::webapp_internal::log_error|8172:: Warning log_error Wasn't possible execute Start() method: Message: Reached error page: about:neterror?e=netReset&u=http%3A//lineagroprodutos143570.protheus.cloudtotvs.com.br%3A2203/webapp/&c=UTF-8&d=A%20conex%C3%A3o%20com%20o%20servidor%20foi%20reiniciada%20durante%20o%20carregamento%20da%20p%C3%A1gina.
+
+2025-08-15 09:51:58,511-DEBUG-root-7300::webapp_internal::log_error|8175:: ***System Info*** in log_error():
+2025-08-15 09:51:58,511-DEBUG-root-7300::psutil_info::system_info|5:: CPU USAGE: 56.9%
+2025-08-15 09:51:58,511-DEBUG-root-7300::psutil_info::system_info|6:: MEMORY USAGE: 89.4%
+2025-08-15 09:51:58,511-DEBUG-root-7300::psutil_info::system_info|7:: MEMORY AVAILABLE: 10.6%
+2025-08-15 09:51:58,597-DEBUG-root-7300::log::take_screenshot_log|498:: take_screenshot_log in:2025-08-15 09:51:58.597449
+
+2025-08-15 09:51:58,648-DEBUG-root-7300::log::take_screenshot_log|513:: Screenshot file created successfully: Log\AGLMSCGPE09EKBH\BrunoAriasRocha_20250815095158597_None_error.png

@@ -1,0 +1,21 @@
+{   "Url": "http://localhost:2018",
+
+    "Browser": "FireFox",
+
+    "Environment": "SEU_AMBIENTE",
+
+    "Language": "pt-br",
+
+    "User": "USER",
+
+    "Password": "123",
+
+    "CSVPath": "SEU_CAMINHO_CSV",
+    
+    "DebugLog": true,
+
+    "TimeOut": 90,
+
+    "Headless": false
+
+}

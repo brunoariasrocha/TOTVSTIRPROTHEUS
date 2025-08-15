@@ -1,0 +1,24 @@
+2025-08-15 09:58:47,031-DEBUG-root-12008::logging_config::logger|188:: Log file created: 'Log\AGLMSCGPE09EKBH\TIR__20250815095846991.log'
+2025-08-15 09:58:47,031-INFO-root-12008::base::Start|1175:: TIR Version: 1.20.30
+2025-08-15 09:58:47,031-INFO-root-12008::base::Start|1176:: Starting the browser
+2025-08-15 09:58:55,746-WARNING-root-12008::webapp_internal::log_error|8172:: Warning log_error Wasn't possible execute Start() method: Message: Reached error page: about:neterror?e=netReset&u=http%3A//lineagroprodutos143570.protheus.cloudtotvs.com.br%3A2203/webapp/&c=UTF-8&d=A%20conex%C3%A3o%20com%20o%20servidor%20foi%20reiniciada%20durante%20o%20carregamento%20da%20p%C3%A1gina.
+
+2025-08-15 09:58:55,747-DEBUG-root-12008::webapp_internal::log_error|8175:: ***System Info*** in log_error():
+2025-08-15 09:58:55,747-DEBUG-root-12008::psutil_info::system_info|5:: CPU USAGE: 61.1%
+2025-08-15 09:58:55,747-DEBUG-root-12008::psutil_info::system_info|6:: MEMORY USAGE: 94.5%
+2025-08-15 09:58:55,748-DEBUG-root-12008::psutil_info::system_info|7:: MEMORY AVAILABLE: 5.5%
+2025-08-15 09:58:55,799-DEBUG-root-12008::log::take_screenshot_log|498:: take_screenshot_log in:2025-08-15 09:58:55.799579
+
+2025-08-15 09:58:55,844-DEBUG-root-12008::log::take_screenshot_log|513:: Screenshot file created successfully: Log\AGLMSCGPE09EKBH\BrunoAriasRocha_20250815095855799_None_error.png
+2025-08-15 09:58:47,031-DEBUG-root-12008::logging_config::logger|188:: Log file created: 'Log\AGLMSCGPE09EKBH\TIR__20250815095846991.log'
+2025-08-15 09:58:47,031-INFO-root-12008::base::Start|1175:: TIR Version: 1.20.30
+2025-08-15 09:58:47,031-INFO-root-12008::base::Start|1176:: Starting the browser
+2025-08-15 09:58:55,746-WARNING-root-12008::webapp_internal::log_error|8172:: Warning log_error Wasn't possible execute Start() method: Message: Reached error page: about:neterror?e=netReset&u=http%3A//lineagroprodutos143570.protheus.cloudtotvs.com.br%3A2203/webapp/&c=UTF-8&d=A%20conex%C3%A3o%20com%20o%20servidor%20foi%20reiniciada%20durante%20o%20carregamento%20da%20p%C3%A1gina.
+
+2025-08-15 09:58:55,747-DEBUG-root-12008::webapp_internal::log_error|8175:: ***System Info*** in log_error():
+2025-08-15 09:58:55,747-DEBUG-root-12008::psutil_info::system_info|5:: CPU USAGE: 61.1%
+2025-08-15 09:58:55,747-DEBUG-root-12008::psutil_info::system_info|6:: MEMORY USAGE: 94.5%
+2025-08-15 09:58:55,748-DEBUG-root-12008::psutil_info::system_info|7:: MEMORY AVAILABLE: 5.5%
+2025-08-15 09:58:55,799-DEBUG-root-12008::log::take_screenshot_log|498:: take_screenshot_log in:2025-08-15 09:58:55.799579
+
+2025-08-15 09:58:55,844-DEBUG-root-12008::log::take_screenshot_log|513:: Screenshot file created successfully: Log\AGLMSCGPE09EKBH\BrunoAriasRocha_20250815095855799_None_error.png
