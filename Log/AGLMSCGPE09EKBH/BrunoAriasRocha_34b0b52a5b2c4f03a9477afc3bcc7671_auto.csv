@@ -1,0 +1,2 @@
+Data;Usuário;Estação;Programa;Data Programa;Total CTs;Passou;Falhou;Segundos;Versão;Release;CTs Falhou;Banco de dados;Chamado;ID Execução;Pais;Tipo de Teste
+"20/08/2025 18:09:45";"BrunoAriasRocha";"AGLMSCGPE09EKBH";"TESTE2MATA010";"19800101";1;0;1;194.83;"12";"12.1.2410";"001 - <b>Help: </b>Descricao<br><br><br><b>Problema: </b> Descriçao deve ser informada. <b>Solução: </b>Retire o espaço em branco da primeira posição.<br>";"MSSQL";"";"20250820";"BRA";"TIR"
