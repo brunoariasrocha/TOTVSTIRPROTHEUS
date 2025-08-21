@@ -1,0 +1,2 @@
+Data;Usuário;Estação;Programa;Data Programa;Total CTs;Passou;Falhou;Segundos;Versão;Release;CTs Falhou;Banco de dados;Chamado;ID Execução;Pais;Tipo de Teste
+"21/08/2025 15:11:22";"BrunoAriasRocha";"AGLMSCGPE09EKBH";"TESTE2MATA010";"19800101";1;0;1;224.98;"12";"12.1.2410";"001 - <b>Help: </b>Codigo<br><br><br><b>Problema: </b> Já existe registro com esta informação. <b>Solução: </b>Troque a chave principal deste registro.<br>";"MSSQL";"";"20250821";"BRA";"TIR"

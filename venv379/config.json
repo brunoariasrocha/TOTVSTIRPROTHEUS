@@ -2,9 +2,11 @@
 
     "Browser": "FireFox",
 
-    "Environment": "AGRO_HMG",
+    "Environment": "CG7XJ1_HMG",
 
     "Language": "pt-br",
+
+    "POUILogin": true,
 
     "User": "BRUNO.ROCHA",
 

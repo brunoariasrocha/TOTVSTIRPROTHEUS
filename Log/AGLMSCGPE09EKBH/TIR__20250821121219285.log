@@ -1,0 +1,204 @@
+2025-08-21 12:12:19,293-DEBUG-root-25968::logging_config::logger|188:: Log file created: 'Log\AGLMSCGPE09EKBH\TIR__20250821121219285.log'
+2025-08-21 12:12:19,293-INFO-root-25968::base::Start|1175:: TIR Version: 1.20.30
+2025-08-21 12:12:19,293-INFO-root-25968::base::Start|1176:: Starting the browser
+2025-08-21 12:12:32,656-INFO-root-25968::base::get_url|1274:: Page is ready!
+2025-08-21 12:12:32,660-INFO-root-25968::base::Start|1242:: Browser maximized to 1936x1048
+2025-08-21 12:12:32,661-INFO-root-25968::base::Start|1244:: Screen size is different from default used in headless mode
+2025-08-21 12:12:32,707-INFO-root-25968::webapp_internal::Setup|240:: ***System Info*** in Setup():
+2025-08-21 12:12:32,708-DEBUG-root-25968::psutil_info::system_info|5:: CPU USAGE: 84.8%
+2025-08-21 12:12:32,709-DEBUG-root-25968::psutil_info::system_info|6:: MEMORY USAGE: 89.7%
+2025-08-21 12:12:32,709-DEBUG-root-25968::psutil_info::system_info|7:: MEMORY AVAILABLE: 10.32%
+2025-08-21 12:12:32,725-INFO-root-25968::base::webapp_shadowroot|1374:: Webapp: 10.1.2-RC12
+2025-08-21 12:12:32,726-INFO-root-25968::webapp_internal::filling_initial_program|437:: Filling Initial Program: "SIGACOM"
+2025-08-21 12:12:32,728-DEBUG-root-25968::webapp_internal::wait_element|7653:: Waiting for element
+2025-08-21 12:12:32,795-DEBUG-root-25968::webapp_internal::wait_element|7683:: Element found! Waiting for element to be displayed.
+2025-08-21 12:12:33,045-DEBUG-root-25968::base::click|189:: Click Type: ClickType.JS
+2025-08-21 12:12:33,060-DEBUG-root-25968::webapp_internal::try_send_keys|8006:: Trying to send keys to element using technique 0
+2025-08-21 12:12:33,501-DEBUG-root-25968::webapp_internal::get_web_value|3194:: Current value: SIGACOM
+2025-08-21 12:12:33,502-INFO-root-25968::webapp_internal::filling_server_environment|451:: Filling Server Environment: "CG7XJ1_HMG"
+2025-08-21 12:12:33,502-DEBUG-root-25968::webapp_internal::wait_element|7653:: Waiting for element
+2025-08-21 12:12:33,571-DEBUG-root-25968::webapp_internal::wait_element|7683:: Element found! Waiting for element to be displayed.
+2025-08-21 12:12:33,795-DEBUG-root-25968::base::click|189:: Click Type: ClickType.JS
+2025-08-21 12:12:33,804-DEBUG-root-25968::webapp_internal::try_send_keys|8006:: Trying to send keys to element using technique 0
+2025-08-21 12:12:34,198-DEBUG-root-25968::webapp_internal::get_web_value|3194:: Current value: CG7XJ1_HMG
+2025-08-21 12:12:34,242-DEBUG-root-25968::base::click|189:: Click Type: ClickType.JS
+2025-08-21 12:12:34,264-DEBUG-root-25968::webapp_internal::user_screen|507:: Filling user screen
+2025-08-21 12:12:40,215-DEBUG-root-25968::webapp_internal::wait_element_timeout|7756:: Element found! Waiting for element to be displayed.
+2025-08-21 12:12:40,343-DEBUG-root-25968::base::scroll_to_element|750:: ********Warining scroll_to_element exception: Message: TypeError: can't access property "scrollIntoView", arguments[0] is null
+*********
+2025-08-21 12:12:40,885-INFO-root-25968::webapp_internal::user_screen|549:: Filling User
+2025-08-21 12:12:40,925-DEBUG-root-25968::base::double_click|256:: Click Type: ClickType.SELENIUM
+2025-08-21 12:12:41,204-DEBUG-root-25968::webapp_internal::get_web_value|3194:: Current value: BRUNO.ROCHA
+2025-08-21 12:12:41,263-INFO-root-25968::webapp_internal::user_screen|609:: Filling Password
+2025-08-21 12:12:41,324-DEBUG-root-25968::base::click|189:: Click Type: ClickType.JS
+2025-08-21 12:12:41,465-DEBUG-root-25968::webapp_internal::get_web_value|3194:: Current value: 123
+2025-08-21 12:12:41,466-DEBUG-root-25968::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-08-21 12:12:41,535-DEBUG-root-25968::webapp_internal::wait_blocker|2424:: Blocker status: None
+2025-08-21 12:12:41,679-DEBUG-root-25968::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-08-21 12:12:41,760-DEBUG-root-25968::webapp_internal::wait_blocker|2424:: Blocker status: None
+2025-08-21 12:12:41,761-DEBUG-root-25968::webapp_internal::send_action|10483:: Trying to send action
+2025-08-21 12:12:41,773-DEBUG-root-25968::base::click|189:: Click Type: ClickType.JS
+2025-08-21 12:12:42,882-DEBUG-root-25968::webapp_internal::send_action|10524:: send_action method result = True
+2025-08-21 12:12:42,884-DEBUG-root-25968::webapp_internal::send_action|10525:: send_action selenium status: False
+2025-08-21 12:12:43,455-DEBUG-root-25968::base::scroll_to_element|750:: ********Warining scroll_to_element exception: Message: TypeError: can't access property "scrollIntoView", arguments[0] is null
+*********
+2025-08-21 12:12:43,569-INFO-root-25968::webapp_internal::filling_date|867:: Filling Date: "21/08/2025"
+2025-08-21 12:12:43,569-DEBUG-root-25968::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-08-21 12:12:43,640-DEBUG-root-25968::webapp_internal::wait_blocker|2424:: Blocker status: None
+2025-08-21 12:12:43,643-DEBUG-root-25968::base::click|189:: Click Type: ClickType.JS
+2025-08-21 12:12:43,695-DEBUG-root-25968::webapp_internal::try_send_keys|8006:: Trying to send keys to element using technique 1
+2025-08-21 12:12:43,795-DEBUG-root-25968::webapp_internal::get_web_value|3194:: Current value: 21/08/2025
+2025-08-21 12:12:44,996-INFO-root-25968::webapp_internal::filling_group|920:: Filling Group: "01"
+2025-08-21 12:12:44,998-DEBUG-root-25968::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-08-21 12:12:45,089-DEBUG-root-25968::webapp_internal::wait_blocker|2424:: Blocker status: None
+2025-08-21 12:12:45,097-DEBUG-root-25968::base::click|189:: Click Type: ClickType.JS
+2025-08-21 12:12:45,306-DEBUG-root-25968::webapp_internal::get_web_value|3194:: Current value: 01
+2025-08-21 12:12:46,473-INFO-root-25968::webapp_internal::filling_branch|1011:: Filling Branch: "01011001"
+2025-08-21 12:12:46,473-DEBUG-root-25968::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-08-21 12:12:46,555-DEBUG-root-25968::webapp_internal::wait_blocker|2424:: Blocker status: None
+2025-08-21 12:12:46,562-DEBUG-root-25968::base::click|189:: Click Type: ClickType.JS
+2025-08-21 12:12:46,677-DEBUG-root-25968::webapp_internal::get_web_value|3194:: Current value: 01011001
+2025-08-21 12:12:48,022-INFO-root-25968::webapp_internal::environment_screen|784:: Clicking on Button
+2025-08-21 12:12:48,024-DEBUG-root-25968::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-08-21 12:12:48,080-DEBUG-root-25968::webapp_internal::wait_blocker|2424:: Blocker status: None
+2025-08-21 12:12:48,080-DEBUG-root-25968::base::click|189:: Click Type: ClickType.JS
+2025-08-21 12:12:49,119-DEBUG-root-25968::base::click|189:: Click Type: ClickType.JS
+2025-08-21 12:12:50,146-DEBUG-root-25968::base::click|189:: Click Type: ClickType.JS
+2025-08-21 12:12:51,163-DEBUG-root-25968::base::click|189:: Click Type: ClickType.JS
+2025-08-21 12:12:52,180-DEBUG-root-25968::base::click|189:: Click Type: ClickType.JS
+2025-08-21 12:12:53,200-DEBUG-root-25968::base::click|189:: Click Type: ClickType.JS
+2025-08-21 12:12:54,224-DEBUG-root-25968::webapp_internal::close_screen_before_menu|370:: Closing screen before the menu
+2025-08-21 12:12:54,284-DEBUG-root-25968::webapp_internal::close_warning_screen|1449:: Closing warning screen!
+2025-08-21 12:12:55,346-DEBUG-root-25968::webapp_internal::check_screen_element|1255:: Checking screen element: "Atenção": True
+2025-08-21 12:12:55,537-DEBUG-root-25968::webapp_internal::wait_element_timeout|7756:: Element found! Waiting for element to be displayed.
+2025-08-21 12:12:55,636-DEBUG-root-25968::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-08-21 12:12:55,967-DEBUG-root-25968::webapp_internal::wait_blocker|2424:: Blocker status: False
+2025-08-21 12:12:55,979-DEBUG-root-25968::webapp_internal::send_action|10483:: Trying to send action
+2025-08-21 12:12:56,058-DEBUG-root-25968::base::click|189:: Click Type: ClickType.JS
+2025-08-21 12:12:57,191-DEBUG-root-25968::webapp_internal::send_action|10524:: send_action method result = True
+2025-08-21 12:12:57,192-DEBUG-root-25968::webapp_internal::send_action|10525:: send_action selenium status: False
+2025-08-21 12:12:57,192-DEBUG-root-25968::webapp_internal::close_coin_screen|1385:: Closing coin screen!
+2025-08-21 12:12:58,072-DEBUG-root-25968::base::click|189:: Click Type: ClickType.JS
+2025-08-21 12:12:58,400-DEBUG-root-25968::webapp_internal::close_warning_screen|1449:: Closing warning screen!
+2025-08-21 12:12:59,972-DEBUG-root-25968::webapp_internal::check_screen_element|1255:: Checking screen element: "Atenção": False
+2025-08-21 12:12:59,978-DEBUG-root-25968::webapp_internal::close_coin_screen|1385:: Closing coin screen!
+2025-08-21 12:13:01,168-INFO-root-25968::webapp_internal::set_log_info|1582:: Getting log info
+2025-08-21 12:13:01,173-INFO-root-25968::webapp_internal::SetLateralMenu|4145:: Navigating lateral menu: Ajuda > Sobre
+2025-08-21 12:13:01,229-DEBUG-root-25968::webapp_internal::wait_element|7653:: Waiting for element
+2025-08-21 12:13:01,577-DEBUG-root-25968::webapp_internal::wait_element|7683:: Element found! Waiting for element to be displayed.
+2025-08-21 12:13:01,968-INFO-root-25968::webapp_internal::SetLateralMenu|4164:: Menu item: "Ajuda"
+2025-08-21 12:13:01,970-DEBUG-root-25968::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-08-21 12:13:02,208-DEBUG-root-25968::webapp_internal::wait_blocker|2424:: Blocker status: None
+2025-08-21 12:13:03,372-DEBUG-root-25968::webapp_internal::wait_element_timeout|7756:: Element found! Waiting for element to be displayed.
+2025-08-21 12:13:04,264-DEBUG-root-25968::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-08-21 12:13:04,387-DEBUG-root-25968::webapp_internal::wait_blocker|2424:: Blocker status: False
+2025-08-21 12:13:06,716-INFO-root-25968::webapp_internal::SetLateralMenu|4164:: Menu item: "Sobre"
+2025-08-21 12:13:06,716-DEBUG-root-25968::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-08-21 12:13:06,884-DEBUG-root-25968::webapp_internal::wait_blocker|2424:: Blocker status: False
+2025-08-21 12:13:08,153-DEBUG-root-25968::webapp_internal::wait_element_timeout|7756:: Element found! Waiting for element to be displayed.
+2025-08-21 12:13:09,533-DEBUG-root-25968::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-08-21 12:13:09,715-DEBUG-root-25968::webapp_internal::wait_blocker|2424:: Blocker status: False
+2025-08-21 12:13:13,174-DEBUG-root-25968::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-08-21 12:13:13,320-DEBUG-root-25968::webapp_internal::wait_blocker|2424:: Blocker status: False
+2025-08-21 12:13:13,495-DEBUG-root-25968::webapp_internal::wait_element|7653:: Waiting for element
+2025-08-21 12:13:13,583-DEBUG-root-25968::webapp_internal::wait_element|7683:: Element found! Waiting for element to be displayed.
+2025-08-21 12:13:13,863-INFO-root-25968::webapp_internal::SetButton|4405:: Clicking on Fechar
+2025-08-21 12:13:13,867-DEBUG-root-25968::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-08-21 12:13:14,010-DEBUG-root-25968::webapp_internal::wait_blocker|2424:: Blocker status: False
+2025-08-21 12:13:14,305-DEBUG-root-25968::webapp_internal::wait_element_timeout|7756:: Element found! Waiting for element to be displayed.
+2025-08-21 12:13:14,473-DEBUG-root-25968::webapp_internal::SetButton|4442:: ***System Info*** Before Clicking on button:Fechar
+2025-08-21 12:13:14,473-DEBUG-root-25968::psutil_info::system_info|5:: CPU USAGE: 72.6%
+2025-08-21 12:13:14,473-DEBUG-root-25968::psutil_info::system_info|6:: MEMORY USAGE: 88.8%
+2025-08-21 12:13:14,475-DEBUG-root-25968::psutil_info::system_info|7:: MEMORY AVAILABLE: 11.2%
+2025-08-21 12:13:14,731-DEBUG-root-25968::webapp_internal::wait_element_timeout|7756:: Element found! Waiting for element to be displayed.
+2025-08-21 12:13:15,039-DEBUG-root-25968::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-08-21 12:13:15,191-DEBUG-root-25968::webapp_internal::wait_blocker|2424:: Blocker status: False
+2025-08-21 12:13:15,191-DEBUG-root-25968::webapp_internal::send_action|10483:: Trying to send action
+2025-08-21 12:13:15,197-DEBUG-root-25968::base::click|189:: Click Type: ClickType.JS
+2025-08-21 12:13:16,261-DEBUG-root-25968::webapp_internal::send_action|10524:: send_action method result = True
+2025-08-21 12:13:16,262-DEBUG-root-25968::webapp_internal::send_action|10525:: send_action selenium status: False
+2025-08-21 12:13:16,264-DEBUG-root-25968::webapp_internal::SetButton|4644:: ***System Info*** After Clicking on button:
+2025-08-21 12:13:16,264-DEBUG-root-25968::psutil_info::system_info|5:: CPU USAGE: 49.9%
+2025-08-21 12:13:16,264-DEBUG-root-25968::psutil_info::system_info|6:: MEMORY USAGE: 88.6%
+2025-08-21 12:13:16,264-DEBUG-root-25968::psutil_info::system_info|7:: MEMORY AVAILABLE: 11.36%
+2025-08-21 12:13:16,264-DEBUG-root-25968::webapp_internal::wait_element|7653:: Waiting for element
+2025-08-21 12:13:16,447-INFO-root-25968::webapp_internal::set_program|1750:: Setting program: MATA010
+2025-08-21 12:13:16,465-DEBUG-root-25968::webapp_internal::wait_element|7653:: Waiting for element
+2025-08-21 12:13:16,532-DEBUG-root-25968::webapp_internal::wait_element|7683:: Element found! Waiting for element to be displayed.
+2025-08-21 12:13:16,767-DEBUG-root-25968::base::double_click|256:: Click Type: ClickType.SELENIUM
+2025-08-21 12:13:17,332-DEBUG-root-25968::webapp_internal::get_web_value|3194:: Current value: MATA010
+2025-08-21 12:13:17,428-DEBUG-root-25968::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-08-21 12:13:17,563-DEBUG-root-25968::webapp_internal::wait_blocker|2424:: Blocker status: False
+2025-08-21 12:13:17,564-DEBUG-root-25968::webapp_internal::send_action|10483:: Trying to send action
+2025-08-21 12:13:17,578-DEBUG-root-25968::base::click|189:: Click Type: ClickType.JS
+2025-08-21 12:13:18,644-DEBUG-root-25968::webapp_internal::send_action|10524:: send_action method result = True
+2025-08-21 12:13:18,646-DEBUG-root-25968::webapp_internal::send_action|10525:: send_action selenium status: False
+2025-08-21 12:13:18,647-DEBUG-root-25968::webapp_internal::wait_element_is_not_displayed|7587:: Waiting for element to disappear
+2025-08-21 12:13:18,667-DEBUG-root-25968::webapp_internal::close_news_screen|1509:: Closing news screen!
+2025-08-21 12:13:18,690-INFO-root-25968::webapp_internal::SetButton|4405:: Clicking on Incluir
+2025-08-21 12:13:18,690-DEBUG-root-25968::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-08-21 12:13:18,718-DEBUG-root-25968::webapp_internal::wait_blocker|2424:: Blocker status: None
+2025-08-21 12:13:23,344-DEBUG-root-25968::webapp_internal::wait_element_timeout|7756:: Element found! Waiting for element to be displayed.
+2025-08-21 12:13:25,082-DEBUG-root-25968::webapp_internal::SetButton|4442:: ***System Info*** Before Clicking on button:Incluir
+2025-08-21 12:13:25,082-DEBUG-root-25968::psutil_info::system_info|5:: CPU USAGE: 66.1%
+2025-08-21 12:13:25,082-DEBUG-root-25968::psutil_info::system_info|6:: MEMORY USAGE: 89.1%
+2025-08-21 12:13:25,082-DEBUG-root-25968::psutil_info::system_info|7:: MEMORY AVAILABLE: 10.86%
+2025-08-21 12:13:26,766-DEBUG-root-25968::webapp_internal::wait_element_timeout|7756:: Element found! Waiting for element to be displayed.
+2025-08-21 12:13:28,709-DEBUG-root-25968::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-08-21 12:13:28,995-DEBUG-root-25968::webapp_internal::wait_blocker|2424:: Blocker status: False
+2025-08-21 12:13:28,999-DEBUG-root-25968::webapp_internal::send_action|10483:: Trying to send action
+2025-08-21 12:13:29,010-DEBUG-root-25968::base::click|189:: Click Type: ClickType.JS
+2025-08-21 12:13:30,179-DEBUG-root-25968::webapp_internal::send_action|10524:: send_action method result = True
+2025-08-21 12:13:30,180-DEBUG-root-25968::webapp_internal::send_action|10525:: send_action selenium status: False
+2025-08-21 12:13:30,182-DEBUG-root-25968::webapp_internal::SetButton|4644:: ***System Info*** After Clicking on button:
+2025-08-21 12:13:30,182-DEBUG-root-25968::psutil_info::system_info|5:: CPU USAGE: 68.5%
+2025-08-21 12:13:30,184-DEBUG-root-25968::psutil_info::system_info|6:: MEMORY USAGE: 89.4%
+2025-08-21 12:13:30,184-DEBUG-root-25968::psutil_info::system_info|7:: MEMORY AVAILABLE: 10.59%
+2025-08-21 12:13:30,184-INFO-root-25968::webapp_internal::WaitShow|4941:: Waiting show text 'Atualizacao de Produtos - Incluir'...
+2025-08-21 12:13:47,801-INFO-root-25968::webapp_internal::WaitShow|4957:: Text found! 
+2025-08-21 12:13:47,809-DEBUG-root-25968::webapp_internal::SetFocus|5974:: Setting focus on element B1_DESC.
+2025-08-21 12:13:49,167-DEBUG-root-25968::base::click|189:: Click Type: ClickType.SELENIUM
+2025-08-21 12:13:49,296-DEBUG-root-25968::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-08-21 12:13:50,277-DEBUG-root-25968::webapp_internal::wait_blocker|2424:: Blocker status: False
+2025-08-21 12:13:50,278-DEBUG-root-25968::webapp_internal::wait_element|7653:: Waiting for element
+2025-08-21 12:13:50,844-DEBUG-root-25968::webapp_internal::wait_element|7683:: Element found! Waiting for element to be displayed.
+2025-08-21 12:13:51,711-INFO-root-25968::webapp_internal::input_value|2894:: Looking for element: B1_DESC
+2025-08-21 12:13:52,646-INFO-root-25968::webapp_internal::input_value|2904:: Element: B1_DESC Found!
+2025-08-21 12:13:52,646-INFO-root-25968::webapp_internal::input_value|2906:: Filling element: B1_DESC
+2025-08-21 12:13:52,824-DEBUG-root-25968::webapp_internal::get_web_value|3194:: Current value:                                                                                                                                                                                                         
+2025-08-21 12:13:52,987-DEBUG-root-25968::base::double_click|256:: Click Type: ClickType.SELENIUM
+2025-08-21 12:13:54,355-INFO-root-25968::webapp_internal::input_value|2894:: Looking for element: B1_DESC
+2025-08-21 12:13:55,178-INFO-root-25968::webapp_internal::input_value|2904:: Element: B1_DESC Found!
+2025-08-21 12:13:55,178-INFO-root-25968::webapp_internal::input_value|2906:: Filling element: B1_DESC
+2025-08-21 12:13:55,289-DEBUG-root-25968::webapp_internal::get_web_value|3194:: Current value:                                                                                                                                                                                                         
+2025-08-21 12:13:55,441-DEBUG-root-25968::base::double_click|256:: Click Type: ClickType.SELENIUM
+2025-08-21 12:13:56,711-INFO-root-25968::webapp_internal::input_value|2894:: Looking for element: B1_DESC
+2025-08-21 12:13:57,529-INFO-root-25968::webapp_internal::input_value|2904:: Element: B1_DESC Found!
+2025-08-21 12:13:57,529-INFO-root-25968::webapp_internal::input_value|2906:: Filling element: B1_DESC
+2025-08-21 12:13:57,676-DEBUG-root-25968::webapp_internal::get_web_value|3194:: Current value:                                                                                                                                                                                                         
+2025-08-21 12:13:57,841-DEBUG-root-25968::base::double_click|256:: Click Type: ClickType.SELENIUM
+2025-08-21 12:13:59,132-INFO-root-25968::webapp_internal::input_value|2894:: Looking for element: B1_DESC
+2025-08-21 12:13:59,875-INFO-root-25968::webapp_internal::input_value|2904:: Element: B1_DESC Found!
+2025-08-21 12:13:59,875-INFO-root-25968::webapp_internal::input_value|2906:: Filling element: B1_DESC
+2025-08-21 12:13:59,993-DEBUG-root-25968::webapp_internal::get_web_value|3194:: Current value:                                                                                                                                                                                                         
+2025-08-21 12:14:00,176-DEBUG-root-25968::base::double_click|256:: Click Type: ClickType.SELENIUM
+2025-08-21 12:14:01,479-INFO-root-25968::webapp_internal::input_value|2894:: Looking for element: B1_DESC
+2025-08-21 12:14:02,144-INFO-root-25968::webapp_internal::input_value|2904:: Element: B1_DESC Found!
+2025-08-21 12:14:02,144-INFO-root-25968::webapp_internal::input_value|2906:: Filling element: B1_DESC
+2025-08-21 12:14:02,260-DEBUG-root-25968::webapp_internal::get_web_value|3194:: Current value:                                                                                                                                                                                                         
+2025-08-21 12:14:02,388-DEBUG-root-25968::base::double_click|256:: Click Type: ClickType.SELENIUM
+2025-08-21 12:14:03,613-INFO-root-25968::webapp_internal::input_value|2894:: Looking for element: B1_DESC
+2025-08-21 12:14:04,425-INFO-root-25968::webapp_internal::input_value|2904:: Element: B1_DESC Found!
+2025-08-21 12:14:04,427-INFO-root-25968::webapp_internal::input_value|2906:: Filling element: B1_DESC
+2025-08-21 12:14:04,627-DEBUG-root-25968::webapp_internal::get_web_value|3194:: Current value:                                                                                                                                                                                                         
+2025-08-21 12:14:04,844-DEBUG-root-25968::base::double_click|256:: Click Type: ClickType.SELENIUM
+2025-08-21 12:14:06,167-INFO-root-25968::webapp_internal::input_value|2894:: Looking for element: B1_DESC
+2025-08-21 12:14:07,045-INFO-root-25968::webapp_internal::input_value|2904:: Element: B1_DESC Found!
+2025-08-21 12:14:07,045-INFO-root-25968::webapp_internal::input_value|2906:: Filling element: B1_DESC
+2025-08-21 12:14:07,211-DEBUG-root-25968::webapp_internal::get_web_value|3194:: Current value:                                                                                                                                                                                                         
+2025-08-21 12:14:07,445-DEBUG-root-25968::base::double_click|256:: Click Type: ClickType.SELENIUM
+2025-08-21 12:14:08,745-INFO-root-25968::webapp_internal::input_value|2894:: Looking for element: B1_DESC
+2025-08-21 12:14:09,721-INFO-root-25968::webapp_internal::input_value|2904:: Element: B1_DESC Found!
+2025-08-21 12:14:09,721-INFO-root-25968::webapp_internal::input_value|2906:: Filling element: B1_DESC
+2025-08-21 12:14:09,860-DEBUG-root-25968::webapp_internal::get_web_value|3194:: Current value:                                                                                                                                                                                                         
+2025-08-21 12:14:10,045-DEBUG-root-25968::base::double_click|256:: Click Type: ClickType.SELENIUM

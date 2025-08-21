@@ -1,0 +1,341 @@
+2025-08-21 10:23:39,920-DEBUG-root-2964::logging_config::logger|188:: Log file created: 'Log\AGLMSCGPE09EKBH\TIR__20250821102339915.log'
+2025-08-21 10:23:39,920-INFO-root-2964::base::Start|1175:: TIR Version: 1.20.30
+2025-08-21 10:23:39,920-INFO-root-2964::base::Start|1176:: Starting the browser
+2025-08-21 10:23:53,407-INFO-root-2964::base::get_url|1274:: Page is ready!
+2025-08-21 10:23:53,410-INFO-root-2964::base::Start|1242:: Browser maximized to 1936x1048
+2025-08-21 10:23:53,410-INFO-root-2964::base::Start|1244:: Screen size is different from default used in headless mode
+2025-08-21 10:23:53,450-INFO-root-2964::webapp_internal::Setup|240:: ***System Info*** in Setup():
+2025-08-21 10:23:53,451-DEBUG-root-2964::psutil_info::system_info|5:: CPU USAGE: 52.9%
+2025-08-21 10:23:53,451-DEBUG-root-2964::psutil_info::system_info|6:: MEMORY USAGE: 86.3%
+2025-08-21 10:23:53,452-DEBUG-root-2964::psutil_info::system_info|7:: MEMORY AVAILABLE: 13.65%
+2025-08-21 10:23:53,458-INFO-root-2964::base::webapp_shadowroot|1374:: Webapp: 10.1.2-RC12
+2025-08-21 10:23:53,459-INFO-root-2964::webapp_internal::filling_initial_program|437:: Filling Initial Program: "SIGACOM"
+2025-08-21 10:23:53,459-DEBUG-root-2964::webapp_internal::wait_element|7652:: Waiting for element
+2025-08-21 10:23:53,497-DEBUG-root-2964::webapp_internal::wait_element|7682:: Element found! Waiting for element to be displayed.
+2025-08-21 10:23:53,707-DEBUG-root-2964::base::click|189:: Click Type: ClickType.JS
+2025-08-21 10:23:53,724-DEBUG-root-2964::webapp_internal::try_send_keys|8005:: Trying to send keys to element using technique 0
+2025-08-21 10:23:54,107-DEBUG-root-2964::webapp_internal::get_web_value|3193:: Current value: SIGACOM
+2025-08-21 10:23:54,107-INFO-root-2964::webapp_internal::filling_server_environment|451:: Filling Server Environment: "CG7XJ1_HMG"
+2025-08-21 10:23:54,107-DEBUG-root-2964::webapp_internal::wait_element|7652:: Waiting for element
+2025-08-21 10:23:54,135-DEBUG-root-2964::webapp_internal::wait_element|7682:: Element found! Waiting for element to be displayed.
+2025-08-21 10:23:54,333-DEBUG-root-2964::base::click|189:: Click Type: ClickType.JS
+2025-08-21 10:23:54,340-DEBUG-root-2964::webapp_internal::try_send_keys|8005:: Trying to send keys to element using technique 0
+2025-08-21 10:23:54,691-DEBUG-root-2964::webapp_internal::get_web_value|3193:: Current value: CG7XJ1_HMG
+2025-08-21 10:23:54,719-DEBUG-root-2964::base::click|189:: Click Type: ClickType.JS
+2025-08-21 10:23:54,733-DEBUG-root-2964::webapp_internal::user_screen|507:: Filling user screen
+2025-08-21 10:24:05,418-DEBUG-root-2964::webapp_internal::wait_element_timeout|7755:: Element found! Waiting for element to be displayed.
+2025-08-21 10:24:05,498-DEBUG-root-2964::base::scroll_to_element|750:: ********Warining scroll_to_element exception: Message: TypeError: can't access property "scrollIntoView", arguments[0] is null
+*********
+2025-08-21 10:24:06,281-INFO-root-2964::webapp_internal::user_screen|549:: Filling User
+2025-08-21 10:24:06,309-DEBUG-root-2964::base::double_click|256:: Click Type: ClickType.SELENIUM
+2025-08-21 10:24:06,519-DEBUG-root-2964::webapp_internal::get_web_value|3193:: Current value: BRUNO.ROCHA
+2025-08-21 10:24:06,557-INFO-root-2964::webapp_internal::user_screen|609:: Filling Password
+2025-08-21 10:24:06,581-DEBUG-root-2964::base::click|189:: Click Type: ClickType.JS
+2025-08-21 10:24:06,657-DEBUG-root-2964::webapp_internal::get_web_value|3193:: Current value: 123
+2025-08-21 10:24:06,657-DEBUG-root-2964::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-08-21 10:24:06,700-DEBUG-root-2964::webapp_internal::wait_blocker|2424:: Blocker status: None
+2025-08-21 10:24:06,781-DEBUG-root-2964::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-08-21 10:24:06,852-DEBUG-root-2964::webapp_internal::wait_blocker|2424:: Blocker status: None
+2025-08-21 10:24:06,852-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:24:06,861-DEBUG-root-2964::base::click|189:: Click Type: ClickType.JS
+2025-08-21 10:24:07,948-DEBUG-root-2964::webapp_internal::send_action|10523:: send_action method result = True
+2025-08-21 10:24:07,949-DEBUG-root-2964::webapp_internal::send_action|10524:: send_action selenium status: False
+2025-08-21 10:24:09,902-DEBUG-root-2964::base::scroll_to_element|750:: ********Warining scroll_to_element exception: Message: TypeError: can't access property "scrollIntoView", arguments[0] is null
+*********
+2025-08-21 10:24:09,980-INFO-root-2964::webapp_internal::filling_date|867:: Filling Date: "21/08/2025"
+2025-08-21 10:24:09,981-DEBUG-root-2964::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-08-21 10:24:10,057-DEBUG-root-2964::webapp_internal::wait_blocker|2424:: Blocker status: None
+2025-08-21 10:24:10,060-DEBUG-root-2964::base::click|189:: Click Type: ClickType.JS
+2025-08-21 10:24:10,084-DEBUG-root-2964::webapp_internal::try_send_keys|8005:: Trying to send keys to element using technique 1
+2025-08-21 10:24:10,169-DEBUG-root-2964::webapp_internal::get_web_value|3193:: Current value: 21/08/2025
+2025-08-21 10:24:11,306-INFO-root-2964::webapp_internal::filling_group|920:: Filling Group: "01"
+2025-08-21 10:24:11,306-DEBUG-root-2964::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-08-21 10:24:11,366-DEBUG-root-2964::webapp_internal::wait_blocker|2424:: Blocker status: None
+2025-08-21 10:24:11,366-DEBUG-root-2964::base::click|189:: Click Type: ClickType.JS
+2025-08-21 10:24:11,757-DEBUG-root-2964::webapp_internal::get_web_value|3193:: Current value: 
+2025-08-21 10:24:12,882-INFO-root-2964::webapp_internal::filling_group|920:: Filling Group: "01"
+2025-08-21 10:24:12,882-DEBUG-root-2964::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-08-21 10:24:12,948-DEBUG-root-2964::webapp_internal::wait_blocker|2424:: Blocker status: None
+2025-08-21 10:24:12,948-DEBUG-root-2964::base::click|189:: Click Type: ClickType.SELENIUM
+2025-08-21 10:24:12,948-ERROR-root-2964::base::click|209:: Warning click method Exception: Message: Element <input id="po-lookup[f2ed9655-a670-cfa4-e775-d1695e2d9f41]" class="po-lookup-input po-lookup-input-trigger po-input-icon-right" type="text"> is not clickable at point (850,381) because another element <div class="po-field-container-content po-lookup po-lookup-disabled"> obscures it
+Traceback (most recent call last):
+  File "c:\Users\BrunoAriasRocha\OneDrive - AgroOpps\Documentos\WORKSPACE\venv379\lib\site-packages\tir\technologies\core\base.py", line 199, in click
+    element.click()
+  File "c:\Users\BrunoAriasRocha\OneDrive - AgroOpps\Documentos\WORKSPACE\venv379\lib\site-packages\selenium\webdriver\remote\webelement.py", line 80, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "c:\Users\BrunoAriasRocha\OneDrive - AgroOpps\Documentos\WORKSPACE\venv379\lib\site-packages\selenium\webdriver\remote\webelement.py", line 633, in _execute
+    return self._parent.execute(command, params)
+  File "c:\Users\BrunoAriasRocha\OneDrive - AgroOpps\Documentos\WORKSPACE\venv379\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "c:\Users\BrunoAriasRocha\OneDrive - AgroOpps\Documentos\WORKSPACE\venv379\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementClickInterceptedException: Message: Element <input id="po-lookup[f2ed9655-a670-cfa4-e775-d1695e2d9f41]" class="po-lookup-input po-lookup-input-trigger po-input-icon-right" type="text"> is not clickable at point (850,381) because another element <div class="po-field-container-content po-lookup po-lookup-disabled"> obscures it
+
+2025-08-21 10:24:13,313-DEBUG-root-2964::webapp_internal::get_web_value|3193:: Current value: 
+2025-08-21 10:24:14,433-INFO-root-2964::webapp_internal::filling_group|920:: Filling Group: "01"
+2025-08-21 10:24:14,433-DEBUG-root-2964::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-08-21 10:24:14,515-DEBUG-root-2964::webapp_internal::wait_blocker|2424:: Blocker status: None
+2025-08-21 10:24:14,515-DEBUG-root-2964::base::click|189:: Click Type: ClickType.ACTIONCHAINS
+2025-08-21 10:24:14,870-DEBUG-root-2964::webapp_internal::get_web_value|3193:: Current value: 01
+2025-08-21 10:24:16,017-INFO-root-2964::webapp_internal::filling_branch|1011:: Filling Branch: "01011001"
+2025-08-21 10:24:16,017-DEBUG-root-2964::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-08-21 10:24:16,091-DEBUG-root-2964::webapp_internal::wait_blocker|2424:: Blocker status: None
+2025-08-21 10:24:16,095-DEBUG-root-2964::base::click|189:: Click Type: ClickType.JS
+2025-08-21 10:24:16,206-DEBUG-root-2964::webapp_internal::get_web_value|3193:: Current value: 01011001
+2025-08-21 10:24:17,637-INFO-root-2964::webapp_internal::environment_screen|784:: Clicking on Button
+2025-08-21 10:24:17,637-DEBUG-root-2964::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-08-21 10:24:17,721-DEBUG-root-2964::webapp_internal::wait_blocker|2424:: Blocker status: None
+2025-08-21 10:24:17,725-DEBUG-root-2964::base::click|189:: Click Type: ClickType.JS
+2025-08-21 10:24:18,750-DEBUG-root-2964::base::click|189:: Click Type: ClickType.JS
+2025-08-21 10:24:19,766-DEBUG-root-2964::base::click|189:: Click Type: ClickType.JS
+2025-08-21 10:24:20,782-DEBUG-root-2964::base::click|189:: Click Type: ClickType.JS
+2025-08-21 10:24:21,800-DEBUG-root-2964::base::click|189:: Click Type: ClickType.JS
+2025-08-21 10:24:22,816-DEBUG-root-2964::base::click|189:: Click Type: ClickType.JS
+2025-08-21 10:24:23,831-DEBUG-root-2964::webapp_internal::close_screen_before_menu|370:: Closing screen before the menu
+2025-08-21 10:24:23,895-DEBUG-root-2964::webapp_internal::close_warning_screen|1449:: Closing warning screen!
+2025-08-21 10:24:24,963-DEBUG-root-2964::webapp_internal::check_screen_element|1255:: Checking screen element: "Atenção": True
+2025-08-21 10:24:25,131-DEBUG-root-2964::webapp_internal::wait_element_timeout|7755:: Element found! Waiting for element to be displayed.
+2025-08-21 10:24:25,230-DEBUG-root-2964::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-08-21 10:24:25,451-DEBUG-root-2964::webapp_internal::wait_blocker|2424:: Blocker status: False
+2025-08-21 10:24:25,451-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:24:25,457-DEBUG-root-2964::base::click|189:: Click Type: ClickType.JS
+2025-08-21 10:24:26,510-DEBUG-root-2964::webapp_internal::send_action|10523:: send_action method result = True
+2025-08-21 10:24:26,510-DEBUG-root-2964::webapp_internal::send_action|10524:: send_action selenium status: False
+2025-08-21 10:24:26,510-DEBUG-root-2964::webapp_internal::close_coin_screen|1385:: Closing coin screen!
+2025-08-21 10:24:26,640-DEBUG-root-2964::webapp_internal::close_warning_screen|1449:: Closing warning screen!
+2025-08-21 10:24:27,707-DEBUG-root-2964::webapp_internal::check_screen_element|1255:: Checking screen element: "Atenção": False
+2025-08-21 10:24:27,707-DEBUG-root-2964::webapp_internal::close_coin_screen|1385:: Closing coin screen!
+2025-08-21 10:24:27,799-DEBUG-root-2964::webapp_internal::close_warning_screen|1449:: Closing warning screen!
+2025-08-21 10:24:28,910-DEBUG-root-2964::webapp_internal::check_screen_element|1255:: Checking screen element: "Atenção": False
+2025-08-21 10:24:28,910-DEBUG-root-2964::webapp_internal::close_coin_screen|1385:: Closing coin screen!
+2025-08-21 10:24:29,559-DEBUG-root-2964::base::click|189:: Click Type: ClickType.JS
+2025-08-21 10:24:29,635-DEBUG-root-2964::webapp_internal::close_warning_screen|1449:: Closing warning screen!
+2025-08-21 10:24:30,688-DEBUG-root-2964::webapp_internal::check_screen_element|1255:: Checking screen element: "Atenção": False
+2025-08-21 10:24:30,688-DEBUG-root-2964::webapp_internal::close_coin_screen|1385:: Closing coin screen!
+2025-08-21 10:24:30,795-DEBUG-root-2964::webapp_internal::close_warning_screen|1449:: Closing warning screen!
+2025-08-21 10:24:31,848-DEBUG-root-2964::webapp_internal::check_screen_element|1255:: Checking screen element: "Atenção": False
+2025-08-21 10:24:31,848-DEBUG-root-2964::webapp_internal::close_coin_screen|1385:: Closing coin screen!
+2025-08-21 10:24:31,954-DEBUG-root-2964::webapp_internal::close_warning_screen|1449:: Closing warning screen!
+2025-08-21 10:24:33,019-DEBUG-root-2964::webapp_internal::check_screen_element|1255:: Checking screen element: "Atenção": False
+2025-08-21 10:24:33,020-DEBUG-root-2964::webapp_internal::close_coin_screen|1385:: Closing coin screen!
+2025-08-21 10:24:33,123-DEBUG-root-2964::webapp_internal::close_warning_screen|1449:: Closing warning screen!
+2025-08-21 10:24:34,197-DEBUG-root-2964::webapp_internal::check_screen_element|1255:: Checking screen element: "Atenção": False
+2025-08-21 10:24:34,197-DEBUG-root-2964::webapp_internal::close_coin_screen|1385:: Closing coin screen!
+2025-08-21 10:24:34,429-INFO-root-2964::webapp_internal::set_log_info|1582:: Getting log info
+2025-08-21 10:24:34,429-INFO-root-2964::webapp_internal::SetLateralMenu|4144:: Navigating lateral menu: Ajuda > Sobre
+2025-08-21 10:24:34,455-DEBUG-root-2964::webapp_internal::wait_element|7652:: Waiting for element
+2025-08-21 10:24:34,486-DEBUG-root-2964::webapp_internal::wait_element|7682:: Element found! Waiting for element to be displayed.
+2025-08-21 10:24:34,694-INFO-root-2964::webapp_internal::SetLateralMenu|4163:: Menu item: "Ajuda"
+2025-08-21 10:24:34,694-DEBUG-root-2964::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-08-21 10:24:34,791-DEBUG-root-2964::webapp_internal::wait_blocker|2424:: Blocker status: False
+2025-08-21 10:24:35,407-DEBUG-root-2964::webapp_internal::wait_element_timeout|7755:: Element found! Waiting for element to be displayed.
+2025-08-21 10:24:35,938-DEBUG-root-2964::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-08-21 10:24:36,044-DEBUG-root-2964::webapp_internal::wait_blocker|2424:: Blocker status: False
+2025-08-21 10:24:38,370-INFO-root-2964::webapp_internal::SetLateralMenu|4163:: Menu item: "Sobre"
+2025-08-21 10:24:38,370-DEBUG-root-2964::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-08-21 10:24:38,480-DEBUG-root-2964::webapp_internal::wait_blocker|2424:: Blocker status: False
+2025-08-21 10:24:39,302-DEBUG-root-2964::webapp_internal::wait_element_timeout|7755:: Element found! Waiting for element to be displayed.
+2025-08-21 10:24:40,059-DEBUG-root-2964::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-08-21 10:24:40,167-DEBUG-root-2964::webapp_internal::wait_blocker|2424:: Blocker status: False
+2025-08-21 10:24:43,246-DEBUG-root-2964::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-08-21 10:24:43,329-DEBUG-root-2964::webapp_internal::wait_blocker|2424:: Blocker status: False
+2025-08-21 10:24:43,430-DEBUG-root-2964::webapp_internal::wait_element|7652:: Waiting for element
+2025-08-21 10:24:43,501-DEBUG-root-2964::webapp_internal::wait_element|7682:: Element found! Waiting for element to be displayed.
+2025-08-21 10:24:43,753-INFO-root-2964::webapp_internal::SetButton|4404:: Clicking on Fechar
+2025-08-21 10:24:43,753-DEBUG-root-2964::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-08-21 10:24:43,847-DEBUG-root-2964::webapp_internal::wait_blocker|2424:: Blocker status: False
+2025-08-21 10:24:44,073-DEBUG-root-2964::webapp_internal::wait_element_timeout|7755:: Element found! Waiting for element to be displayed.
+2025-08-21 10:24:44,207-DEBUG-root-2964::webapp_internal::SetButton|4441:: ***System Info*** Before Clicking on button:Fechar
+2025-08-21 10:24:44,207-DEBUG-root-2964::psutil_info::system_info|5:: CPU USAGE: 40.5%
+2025-08-21 10:24:44,207-DEBUG-root-2964::psutil_info::system_info|6:: MEMORY USAGE: 87.9%
+2025-08-21 10:24:44,207-DEBUG-root-2964::psutil_info::system_info|7:: MEMORY AVAILABLE: 12.08%
+2025-08-21 10:24:44,439-DEBUG-root-2964::webapp_internal::wait_element_timeout|7755:: Element found! Waiting for element to be displayed.
+2025-08-21 10:24:44,736-DEBUG-root-2964::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-08-21 10:24:44,864-DEBUG-root-2964::webapp_internal::wait_blocker|2424:: Blocker status: False
+2025-08-21 10:24:44,864-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:24:44,864-DEBUG-root-2964::base::click|189:: Click Type: ClickType.JS
+2025-08-21 10:24:45,929-DEBUG-root-2964::webapp_internal::send_action|10523:: send_action method result = True
+2025-08-21 10:24:45,929-DEBUG-root-2964::webapp_internal::send_action|10524:: send_action selenium status: False
+2025-08-21 10:24:45,929-DEBUG-root-2964::webapp_internal::SetButton|4643:: ***System Info*** After Clicking on button:
+2025-08-21 10:24:45,929-DEBUG-root-2964::psutil_info::system_info|5:: CPU USAGE: 47.5%
+2025-08-21 10:24:45,929-DEBUG-root-2964::psutil_info::system_info|6:: MEMORY USAGE: 87.9%
+2025-08-21 10:24:45,929-DEBUG-root-2964::psutil_info::system_info|7:: MEMORY AVAILABLE: 12.06%
+2025-08-21 10:24:45,929-DEBUG-root-2964::webapp_internal::wait_element|7652:: Waiting for element
+2025-08-21 10:24:46,049-INFO-root-2964::webapp_internal::set_program|1750:: Setting program: MATA010
+2025-08-21 10:24:46,063-DEBUG-root-2964::webapp_internal::wait_element|7652:: Waiting for element
+2025-08-21 10:24:46,111-DEBUG-root-2964::webapp_internal::wait_element|7682:: Element found! Waiting for element to be displayed.
+2025-08-21 10:24:46,340-DEBUG-root-2964::base::double_click|256:: Click Type: ClickType.SELENIUM
+2025-08-21 10:24:46,826-DEBUG-root-2964::webapp_internal::get_web_value|3193:: Current value: MATA010
+2025-08-21 10:24:46,894-DEBUG-root-2964::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-08-21 10:24:46,985-DEBUG-root-2964::webapp_internal::wait_blocker|2424:: Blocker status: False
+2025-08-21 10:24:46,985-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:24:47,000-DEBUG-root-2964::base::click|189:: Click Type: ClickType.JS
+2025-08-21 10:24:48,058-DEBUG-root-2964::webapp_internal::send_action|10523:: send_action method result = True
+2025-08-21 10:24:48,058-DEBUG-root-2964::webapp_internal::send_action|10524:: send_action selenium status: False
+2025-08-21 10:24:48,058-DEBUG-root-2964::webapp_internal::wait_element_is_not_displayed|7586:: Waiting for element to disappear
+2025-08-21 10:24:48,075-DEBUG-root-2964::webapp_internal::close_news_screen|1509:: Closing news screen!
+2025-08-21 10:24:48,092-INFO-root-2964::webapp_internal::SetButton|4404:: Clicking on Incluir
+2025-08-21 10:24:48,092-DEBUG-root-2964::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-08-21 10:24:48,107-DEBUG-root-2964::webapp_internal::wait_blocker|2424:: Blocker status: None
+2025-08-21 10:24:51,245-DEBUG-root-2964::webapp_internal::wait_element_timeout|7755:: Element found! Waiting for element to be displayed.
+2025-08-21 10:24:52,230-DEBUG-root-2964::webapp_internal::SetButton|4441:: ***System Info*** Before Clicking on button:Incluir
+2025-08-21 10:24:52,230-DEBUG-root-2964::psutil_info::system_info|5:: CPU USAGE: 46.2%
+2025-08-21 10:24:52,231-DEBUG-root-2964::psutil_info::system_info|6:: MEMORY USAGE: 88.1%
+2025-08-21 10:24:52,231-DEBUG-root-2964::psutil_info::system_info|7:: MEMORY AVAILABLE: 11.9%
+2025-08-21 10:24:53,256-DEBUG-root-2964::webapp_internal::wait_element_timeout|7755:: Element found! Waiting for element to be displayed.
+2025-08-21 10:24:54,275-DEBUG-root-2964::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-08-21 10:24:54,395-DEBUG-root-2964::webapp_internal::wait_blocker|2424:: Blocker status: False
+2025-08-21 10:24:54,396-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:24:54,405-DEBUG-root-2964::base::click|189:: Click Type: ClickType.JS
+2025-08-21 10:24:55,476-DEBUG-root-2964::webapp_internal::send_action|10523:: send_action method result = True
+2025-08-21 10:24:55,476-DEBUG-root-2964::webapp_internal::send_action|10524:: send_action selenium status: False
+2025-08-21 10:24:55,476-DEBUG-root-2964::webapp_internal::SetButton|4643:: ***System Info*** After Clicking on button:
+2025-08-21 10:24:55,476-DEBUG-root-2964::psutil_info::system_info|5:: CPU USAGE: 47.2%
+2025-08-21 10:24:55,476-DEBUG-root-2964::psutil_info::system_info|6:: MEMORY USAGE: 87.7%
+2025-08-21 10:24:55,476-DEBUG-root-2964::psutil_info::system_info|7:: MEMORY AVAILABLE: 12.29%
+2025-08-21 10:24:55,476-INFO-root-2964::webapp_internal::WaitShow|4940:: Waiting show text 'Atualizacao de Produtos - Incluir'...
+2025-08-21 10:25:09,516-INFO-root-2964::webapp_internal::WaitShow|4956:: Text found! 
+2025-08-21 10:25:09,516-DEBUG-root-2964::webapp_internal::SetFocus|5973:: Setting focus on element B1_DESC.
+2025-08-21 10:25:10,525-DEBUG-root-2964::base::click|189:: Click Type: ClickType.SELENIUM
+2025-08-21 10:25:10,614-DEBUG-root-2964::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-08-21 10:25:10,862-DEBUG-root-2964::webapp_internal::wait_blocker|2424:: Blocker status: None
+2025-08-21 10:25:10,864-INFO-root-2964::webapp_internal::SetKey|5784:: Key pressed: HOME
+2025-08-21 10:25:10,864-DEBUG-root-2964::webapp_internal::SetKey|5819:: Trying press key
+2025-08-21 10:25:13,087-DEBUG-root-2964::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-08-21 10:25:13,940-DEBUG-root-2964::webapp_internal::wait_blocker|2424:: Blocker status: False
+2025-08-21 10:25:13,940-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:25:15,121-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:25:16,296-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:25:17,476-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:25:18,668-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:25:19,875-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:25:21,072-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:25:22,315-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:25:23,510-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:25:24,701-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:25:25,902-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:25:27,117-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:25:28,299-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:25:29,463-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:25:30,653-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:25:31,832-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:25:33,000-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:25:34,268-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:25:35,554-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:25:36,783-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:25:37,947-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:25:39,156-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:25:40,365-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:25:41,555-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:25:42,931-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:25:44,128-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:25:45,426-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:25:46,678-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:25:47,887-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:25:49,136-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:25:50,352-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:25:51,555-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:25:52,773-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:25:53,975-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:25:55,202-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:25:56,434-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:25:57,742-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:25:58,956-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:26:00,167-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:26:01,350-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:26:02,527-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:26:03,735-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:26:04,952-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:26:06,163-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:26:07,377-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:26:08,620-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:26:09,929-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:26:11,145-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:26:12,361-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:26:13,598-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:26:14,827-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:26:16,072-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:26:17,282-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:26:18,528-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:26:19,843-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:26:21,074-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:26:22,493-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:26:23,816-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:26:25,165-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:26:26,522-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:26:27,825-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:26:29,152-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:26:30,421-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:26:31,660-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:26:32,918-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:26:34,164-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:26:35,467-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:26:36,773-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:26:38,020-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:26:39,269-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:26:40,515-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:26:41,822-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:26:43,113-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:26:44,385-DEBUG-root-2964::webapp_internal::send_action|10523:: send_action method result = False
+2025-08-21 10:26:44,386-DEBUG-root-2964::webapp_internal::send_action|10524:: send_action selenium status: False
+2025-08-21 10:26:44,392-DEBUG-root-2964::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-08-21 10:26:45,572-DEBUG-root-2964::webapp_internal::wait_blocker|2424:: Blocker status: False
+2025-08-21 10:26:45,572-INFO-root-2964::webapp_internal::SetKey|5784:: Key pressed: DELETE
+2025-08-21 10:26:45,573-DEBUG-root-2964::webapp_internal::SetKey|5819:: Trying press key
+2025-08-21 10:26:47,838-DEBUG-root-2964::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-08-21 10:26:48,891-DEBUG-root-2964::webapp_internal::wait_blocker|2424:: Blocker status: False
+2025-08-21 10:26:48,891-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:26:50,169-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:26:51,407-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:26:52,690-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:26:53,956-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:26:55,265-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:26:56,499-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:26:57,748-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:26:58,969-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:27:00,187-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:27:01,428-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:27:02,710-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:27:03,908-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:27:05,090-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:27:06,288-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:27:07,624-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:27:08,857-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:27:10,105-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:27:11,344-DEBUG-root-2964::webapp_internal::send_action|10523:: send_action method result = True
+2025-08-21 10:27:11,344-DEBUG-root-2964::webapp_internal::send_action|10524:: send_action selenium status: False
+2025-08-21 10:27:11,345-DEBUG-root-2964::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-08-21 10:27:12,191-DEBUG-root-2964::webapp_internal::wait_blocker|2424:: Blocker status: False
+2025-08-21 10:27:12,192-INFO-root-2964::webapp_internal::SetKey|5784:: Key pressed: DELETE
+2025-08-21 10:27:12,192-DEBUG-root-2964::webapp_internal::SetKey|5819:: Trying press key
+2025-08-21 10:27:14,384-DEBUG-root-2964::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-08-21 10:27:15,338-DEBUG-root-2964::webapp_internal::wait_blocker|2424:: Blocker status: False
+2025-08-21 10:27:15,339-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:27:16,619-DEBUG-root-2964::webapp_internal::send_action|10523:: send_action method result = True
+2025-08-21 10:27:16,619-DEBUG-root-2964::webapp_internal::send_action|10524:: send_action selenium status: False
+2025-08-21 10:27:16,619-DEBUG-root-2964::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-08-21 10:27:17,455-DEBUG-root-2964::webapp_internal::wait_blocker|2424:: Blocker status: False
+2025-08-21 10:27:17,455-INFO-root-2964::webapp_internal::SetKey|5784:: Key pressed: DELETE
+2025-08-21 10:27:17,455-DEBUG-root-2964::webapp_internal::SetKey|5819:: Trying press key
+2025-08-21 10:27:19,652-DEBUG-root-2964::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-08-21 10:27:20,513-DEBUG-root-2964::webapp_internal::wait_blocker|2424:: Blocker status: False
+2025-08-21 10:27:20,513-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:27:21,763-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:27:23,092-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:27:24,324-DEBUG-root-2964::webapp_internal::send_action|10523:: send_action method result = True
+2025-08-21 10:27:24,324-DEBUG-root-2964::webapp_internal::send_action|10524:: send_action selenium status: False
+2025-08-21 10:27:24,324-DEBUG-root-2964::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-08-21 10:27:25,103-DEBUG-root-2964::webapp_internal::wait_blocker|2424:: Blocker status: False
+2025-08-21 10:27:25,103-INFO-root-2964::webapp_internal::SetKey|5784:: Key pressed: DELETE
+2025-08-21 10:27:25,103-DEBUG-root-2964::webapp_internal::SetKey|5819:: Trying press key
+2025-08-21 10:27:27,261-DEBUG-root-2964::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-08-21 10:27:27,988-DEBUG-root-2964::webapp_internal::wait_blocker|2424:: Blocker status: False
+2025-08-21 10:27:27,988-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:27:29,184-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:27:30,409-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:27:31,561-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:27:32,701-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:27:33,882-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:27:35,020-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:27:36,187-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:27:37,389-DEBUG-root-2964::webapp_internal::send_action|10482:: Trying to send action

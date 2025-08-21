@@ -1,0 +1,245 @@
+2025-08-21 10:15:25,113-DEBUG-root-26552::logging_config::logger|188:: Log file created: 'Log\AGLMSCGPE09EKBH\TIR__20250821101525106.log'
+2025-08-21 10:15:25,113-INFO-root-26552::base::Start|1175:: TIR Version: 1.20.30
+2025-08-21 10:15:25,114-INFO-root-26552::base::Start|1176:: Starting the browser
+2025-08-21 10:15:36,178-INFO-root-26552::base::get_url|1274:: Page is ready!
+2025-08-21 10:15:36,188-INFO-root-26552::base::Start|1242:: Browser maximized to 1936x1048
+2025-08-21 10:15:36,189-INFO-root-26552::base::Start|1244:: Screen size is different from default used in headless mode
+2025-08-21 10:15:36,223-INFO-root-26552::webapp_internal::Setup|240:: ***System Info*** in Setup():
+2025-08-21 10:15:36,224-DEBUG-root-26552::psutil_info::system_info|5:: CPU USAGE: 50.0%
+2025-08-21 10:15:36,224-DEBUG-root-26552::psutil_info::system_info|6:: MEMORY USAGE: 86.7%
+2025-08-21 10:15:36,225-DEBUG-root-26552::psutil_info::system_info|7:: MEMORY AVAILABLE: 13.34%
+2025-08-21 10:15:36,235-INFO-root-26552::base::webapp_shadowroot|1374:: Webapp: 10.1.2-RC12
+2025-08-21 10:15:36,236-INFO-root-26552::webapp_internal::filling_initial_program|437:: Filling Initial Program: "SIGACOM"
+2025-08-21 10:15:36,237-DEBUG-root-26552::webapp_internal::wait_element|7652:: Waiting for element
+2025-08-21 10:15:36,281-DEBUG-root-26552::webapp_internal::wait_element|7682:: Element found! Waiting for element to be displayed.
+2025-08-21 10:15:36,490-DEBUG-root-26552::base::click|189:: Click Type: ClickType.JS
+2025-08-21 10:15:36,500-DEBUG-root-26552::webapp_internal::try_send_keys|8005:: Trying to send keys to element using technique 0
+2025-08-21 10:15:36,880-DEBUG-root-26552::webapp_internal::get_web_value|3193:: Current value: SIGACOM
+2025-08-21 10:15:36,881-INFO-root-26552::webapp_internal::filling_server_environment|451:: Filling Server Environment: "CG7XJ1_HMG"
+2025-08-21 10:15:36,881-DEBUG-root-26552::webapp_internal::wait_element|7652:: Waiting for element
+2025-08-21 10:15:36,931-DEBUG-root-26552::webapp_internal::wait_element|7682:: Element found! Waiting for element to be displayed.
+2025-08-21 10:15:37,140-DEBUG-root-26552::base::click|189:: Click Type: ClickType.JS
+2025-08-21 10:15:37,150-DEBUG-root-26552::webapp_internal::try_send_keys|8005:: Trying to send keys to element using technique 0
+2025-08-21 10:15:37,504-DEBUG-root-26552::webapp_internal::get_web_value|3193:: Current value: CG7XJ1_HMG
+2025-08-21 10:15:37,537-DEBUG-root-26552::base::click|189:: Click Type: ClickType.JS
+2025-08-21 10:15:37,556-DEBUG-root-26552::webapp_internal::user_screen|507:: Filling user screen
+2025-08-21 10:15:43,241-DEBUG-root-26552::webapp_internal::wait_element_timeout|7755:: Element found! Waiting for element to be displayed.
+2025-08-21 10:15:43,303-DEBUG-root-26552::base::scroll_to_element|750:: ********Warining scroll_to_element exception: Message: TypeError: can't access property "scrollIntoView", arguments[0] is null
+*********
+2025-08-21 10:15:43,666-INFO-root-26552::webapp_internal::user_screen|549:: Filling User
+2025-08-21 10:15:43,692-DEBUG-root-26552::base::double_click|256:: Click Type: ClickType.SELENIUM
+2025-08-21 10:15:43,914-DEBUG-root-26552::webapp_internal::get_web_value|3193:: Current value: BRUNO.ROCHA
+2025-08-21 10:15:43,964-INFO-root-26552::webapp_internal::user_screen|609:: Filling Password
+2025-08-21 10:15:44,008-DEBUG-root-26552::base::click|189:: Click Type: ClickType.JS
+2025-08-21 10:15:44,142-DEBUG-root-26552::webapp_internal::get_web_value|3193:: Current value: 123
+2025-08-21 10:15:44,142-DEBUG-root-26552::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-08-21 10:15:44,203-DEBUG-root-26552::webapp_internal::wait_blocker|2424:: Blocker status: None
+2025-08-21 10:15:44,332-DEBUG-root-26552::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-08-21 10:15:44,404-DEBUG-root-26552::webapp_internal::wait_blocker|2424:: Blocker status: None
+2025-08-21 10:15:44,405-DEBUG-root-26552::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:15:44,417-DEBUG-root-26552::base::click|189:: Click Type: ClickType.JS
+2025-08-21 10:15:45,538-DEBUG-root-26552::webapp_internal::send_action|10523:: send_action method result = True
+2025-08-21 10:15:45,539-DEBUG-root-26552::webapp_internal::send_action|10524:: send_action selenium status: False
+2025-08-21 10:15:46,225-DEBUG-root-26552::base::scroll_to_element|750:: ********Warining scroll_to_element exception: Message: TypeError: can't access property "scrollIntoView", arguments[0] is null
+*********
+2025-08-21 10:15:46,307-INFO-root-26552::webapp_internal::filling_date|867:: Filling Date: "21/08/2025"
+2025-08-21 10:15:46,308-DEBUG-root-26552::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-08-21 10:15:46,389-DEBUG-root-26552::webapp_internal::wait_blocker|2424:: Blocker status: None
+2025-08-21 10:15:46,393-DEBUG-root-26552::base::click|189:: Click Type: ClickType.JS
+2025-08-21 10:15:46,426-DEBUG-root-26552::webapp_internal::try_send_keys|8005:: Trying to send keys to element using technique 1
+2025-08-21 10:15:46,512-DEBUG-root-26552::webapp_internal::get_web_value|3193:: Current value: 21/08/2025
+2025-08-21 10:15:47,645-INFO-root-26552::webapp_internal::filling_group|920:: Filling Group: "01"
+2025-08-21 10:15:47,647-DEBUG-root-26552::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-08-21 10:15:47,712-DEBUG-root-26552::webapp_internal::wait_blocker|2424:: Blocker status: None
+2025-08-21 10:15:47,717-DEBUG-root-26552::base::click|189:: Click Type: ClickType.JS
+2025-08-21 10:15:47,847-DEBUG-root-26552::webapp_internal::get_web_value|3193:: Current value: 01
+2025-08-21 10:15:48,970-INFO-root-26552::webapp_internal::filling_branch|1011:: Filling Branch: "01011001"
+2025-08-21 10:15:48,971-DEBUG-root-26552::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-08-21 10:15:49,029-DEBUG-root-26552::webapp_internal::wait_blocker|2424:: Blocker status: None
+2025-08-21 10:15:49,033-DEBUG-root-26552::base::click|189:: Click Type: ClickType.JS
+2025-08-21 10:15:49,376-DEBUG-root-26552::webapp_internal::get_web_value|3193:: Current value: 01011001
+2025-08-21 10:15:50,672-INFO-root-26552::webapp_internal::environment_screen|784:: Clicking on Button
+2025-08-21 10:15:50,672-DEBUG-root-26552::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-08-21 10:15:50,744-DEBUG-root-26552::webapp_internal::wait_blocker|2424:: Blocker status: None
+2025-08-21 10:15:50,750-DEBUG-root-26552::base::click|189:: Click Type: ClickType.JS
+2025-08-21 10:15:51,778-DEBUG-root-26552::base::click|189:: Click Type: ClickType.JS
+2025-08-21 10:15:52,801-DEBUG-root-26552::base::click|189:: Click Type: ClickType.JS
+2025-08-21 10:15:53,819-DEBUG-root-26552::base::click|189:: Click Type: ClickType.JS
+2025-08-21 10:15:54,835-DEBUG-root-26552::base::click|189:: Click Type: ClickType.JS
+2025-08-21 10:15:55,850-DEBUG-root-26552::base::click|189:: Click Type: ClickType.JS
+2025-08-21 10:15:56,873-DEBUG-root-26552::webapp_internal::close_screen_before_menu|370:: Closing screen before the menu
+2025-08-21 10:15:56,938-DEBUG-root-26552::webapp_internal::close_warning_screen|1449:: Closing warning screen!
+2025-08-21 10:15:58,009-DEBUG-root-26552::webapp_internal::check_screen_element|1255:: Checking screen element: "Atenção": True
+2025-08-21 10:15:58,193-DEBUG-root-26552::webapp_internal::wait_element_timeout|7755:: Element found! Waiting for element to be displayed.
+2025-08-21 10:15:58,302-DEBUG-root-26552::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-08-21 10:15:58,424-DEBUG-root-26552::webapp_internal::wait_blocker|2424:: Blocker status: False
+2025-08-21 10:15:58,425-DEBUG-root-26552::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:15:58,432-DEBUG-root-26552::base::click|189:: Click Type: ClickType.JS
+2025-08-21 10:15:59,476-DEBUG-root-26552::webapp_internal::send_action|10523:: send_action method result = True
+2025-08-21 10:15:59,477-DEBUG-root-26552::webapp_internal::send_action|10524:: send_action selenium status: False
+2025-08-21 10:15:59,477-DEBUG-root-26552::webapp_internal::close_coin_screen|1385:: Closing coin screen!
+2025-08-21 10:15:59,591-DEBUG-root-26552::webapp_internal::close_warning_screen|1449:: Closing warning screen!
+2025-08-21 10:16:00,646-DEBUG-root-26552::webapp_internal::check_screen_element|1255:: Checking screen element: "Atenção": False
+2025-08-21 10:16:00,646-DEBUG-root-26552::webapp_internal::close_coin_screen|1385:: Closing coin screen!
+2025-08-21 10:16:00,766-DEBUG-root-26552::webapp_internal::close_warning_screen|1449:: Closing warning screen!
+2025-08-21 10:16:01,851-DEBUG-root-26552::webapp_internal::check_screen_element|1255:: Checking screen element: "Atenção": False
+2025-08-21 10:16:01,851-DEBUG-root-26552::webapp_internal::close_coin_screen|1385:: Closing coin screen!
+2025-08-21 10:16:02,442-DEBUG-root-26552::base::click|189:: Click Type: ClickType.JS
+2025-08-21 10:16:02,533-DEBUG-root-26552::webapp_internal::close_warning_screen|1449:: Closing warning screen!
+2025-08-21 10:16:03,589-DEBUG-root-26552::webapp_internal::check_screen_element|1255:: Checking screen element: "Atenção": False
+2025-08-21 10:16:03,590-DEBUG-root-26552::webapp_internal::close_coin_screen|1385:: Closing coin screen!
+2025-08-21 10:16:03,704-DEBUG-root-26552::webapp_internal::close_warning_screen|1449:: Closing warning screen!
+2025-08-21 10:16:04,760-DEBUG-root-26552::webapp_internal::check_screen_element|1255:: Checking screen element: "Atenção": False
+2025-08-21 10:16:04,761-DEBUG-root-26552::webapp_internal::close_coin_screen|1385:: Closing coin screen!
+2025-08-21 10:16:04,898-DEBUG-root-26552::webapp_internal::close_warning_screen|1449:: Closing warning screen!
+2025-08-21 10:16:05,985-DEBUG-root-26552::webapp_internal::check_screen_element|1255:: Checking screen element: "Atenção": False
+2025-08-21 10:16:05,985-DEBUG-root-26552::webapp_internal::close_coin_screen|1385:: Closing coin screen!
+2025-08-21 10:16:06,101-DEBUG-root-26552::webapp_internal::close_warning_screen|1449:: Closing warning screen!
+2025-08-21 10:16:07,175-DEBUG-root-26552::webapp_internal::check_screen_element|1255:: Checking screen element: "Atenção": False
+2025-08-21 10:16:07,176-DEBUG-root-26552::webapp_internal::close_coin_screen|1385:: Closing coin screen!
+2025-08-21 10:16:07,308-DEBUG-root-26552::webapp_internal::close_warning_screen|1449:: Closing warning screen!
+2025-08-21 10:16:08,405-DEBUG-root-26552::webapp_internal::check_screen_element|1255:: Checking screen element: "Atenção": False
+2025-08-21 10:16:08,405-DEBUG-root-26552::webapp_internal::close_coin_screen|1385:: Closing coin screen!
+2025-08-21 10:16:08,640-INFO-root-26552::webapp_internal::set_log_info|1582:: Getting log info
+2025-08-21 10:16:08,640-INFO-root-26552::webapp_internal::SetLateralMenu|4144:: Navigating lateral menu: Ajuda > Sobre
+2025-08-21 10:16:08,664-DEBUG-root-26552::webapp_internal::wait_element|7652:: Waiting for element
+2025-08-21 10:16:08,725-DEBUG-root-26552::webapp_internal::wait_element|7682:: Element found! Waiting for element to be displayed.
+2025-08-21 10:16:08,951-INFO-root-26552::webapp_internal::SetLateralMenu|4163:: Menu item: "Ajuda"
+2025-08-21 10:16:08,951-DEBUG-root-26552::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-08-21 10:16:09,056-DEBUG-root-26552::webapp_internal::wait_blocker|2424:: Blocker status: None
+2025-08-21 10:16:09,684-DEBUG-root-26552::webapp_internal::wait_element_timeout|7755:: Element found! Waiting for element to be displayed.
+2025-08-21 10:16:10,336-DEBUG-root-26552::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-08-21 10:16:10,452-DEBUG-root-26552::webapp_internal::wait_blocker|2424:: Blocker status: False
+2025-08-21 10:16:12,774-INFO-root-26552::webapp_internal::SetLateralMenu|4163:: Menu item: "Sobre"
+2025-08-21 10:16:12,775-DEBUG-root-26552::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-08-21 10:16:12,900-DEBUG-root-26552::webapp_internal::wait_blocker|2424:: Blocker status: False
+2025-08-21 10:16:13,605-DEBUG-root-26552::webapp_internal::wait_element_timeout|7755:: Element found! Waiting for element to be displayed.
+2025-08-21 10:16:14,300-DEBUG-root-26552::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-08-21 10:16:14,426-DEBUG-root-26552::webapp_internal::wait_blocker|2424:: Blocker status: False
+2025-08-21 10:16:17,352-DEBUG-root-26552::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-08-21 10:16:17,457-DEBUG-root-26552::webapp_internal::wait_blocker|2424:: Blocker status: False
+2025-08-21 10:16:17,593-DEBUG-root-26552::webapp_internal::wait_element|7652:: Waiting for element
+2025-08-21 10:16:17,663-DEBUG-root-26552::webapp_internal::wait_element|7682:: Element found! Waiting for element to be displayed.
+2025-08-21 10:16:17,931-INFO-root-26552::webapp_internal::SetButton|4404:: Clicking on Fechar
+2025-08-21 10:16:17,931-DEBUG-root-26552::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-08-21 10:16:18,126-DEBUG-root-26552::webapp_internal::wait_blocker|2424:: Blocker status: False
+2025-08-21 10:16:18,418-DEBUG-root-26552::webapp_internal::wait_element_timeout|7755:: Element found! Waiting for element to be displayed.
+2025-08-21 10:16:18,536-DEBUG-root-26552::webapp_internal::SetButton|4441:: ***System Info*** Before Clicking on button:Fechar
+2025-08-21 10:16:18,537-DEBUG-root-26552::psutil_info::system_info|5:: CPU USAGE: 40.2%
+2025-08-21 10:16:18,537-DEBUG-root-26552::psutil_info::system_info|6:: MEMORY USAGE: 88.2%
+2025-08-21 10:16:18,537-DEBUG-root-26552::psutil_info::system_info|7:: MEMORY AVAILABLE: 11.76%
+2025-08-21 10:16:18,776-DEBUG-root-26552::webapp_internal::wait_element_timeout|7755:: Element found! Waiting for element to be displayed.
+2025-08-21 10:16:18,994-DEBUG-root-26552::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-08-21 10:16:19,120-DEBUG-root-26552::webapp_internal::wait_blocker|2424:: Blocker status: False
+2025-08-21 10:16:19,121-DEBUG-root-26552::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:16:19,124-DEBUG-root-26552::base::click|189:: Click Type: ClickType.JS
+2025-08-21 10:16:20,170-DEBUG-root-26552::webapp_internal::send_action|10523:: send_action method result = True
+2025-08-21 10:16:20,171-DEBUG-root-26552::webapp_internal::send_action|10524:: send_action selenium status: False
+2025-08-21 10:16:20,171-DEBUG-root-26552::webapp_internal::SetButton|4643:: ***System Info*** After Clicking on button:
+2025-08-21 10:16:20,171-DEBUG-root-26552::psutil_info::system_info|5:: CPU USAGE: 40.5%
+2025-08-21 10:16:20,172-DEBUG-root-26552::psutil_info::system_info|6:: MEMORY USAGE: 87.3%
+2025-08-21 10:16:20,172-DEBUG-root-26552::psutil_info::system_info|7:: MEMORY AVAILABLE: 12.68%
+2025-08-21 10:16:20,172-DEBUG-root-26552::webapp_internal::wait_element|7652:: Waiting for element
+2025-08-21 10:16:20,309-INFO-root-26552::webapp_internal::set_program|1750:: Setting program: MATA010
+2025-08-21 10:16:20,334-DEBUG-root-26552::webapp_internal::wait_element|7652:: Waiting for element
+2025-08-21 10:16:20,387-DEBUG-root-26552::webapp_internal::wait_element|7682:: Element found! Waiting for element to be displayed.
+2025-08-21 10:16:20,704-DEBUG-root-26552::base::double_click|256:: Click Type: ClickType.SELENIUM
+2025-08-21 10:16:21,226-DEBUG-root-26552::webapp_internal::get_web_value|3193:: Current value: MATA010
+2025-08-21 10:16:21,291-DEBUG-root-26552::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-08-21 10:16:21,450-DEBUG-root-26552::webapp_internal::wait_blocker|2424:: Blocker status: False
+2025-08-21 10:16:21,471-DEBUG-root-26552::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:16:21,517-DEBUG-root-26552::base::click|189:: Click Type: ClickType.JS
+2025-08-21 10:16:22,570-DEBUG-root-26552::webapp_internal::send_action|10523:: send_action method result = True
+2025-08-21 10:16:22,570-DEBUG-root-26552::webapp_internal::send_action|10524:: send_action selenium status: False
+2025-08-21 10:16:22,571-DEBUG-root-26552::webapp_internal::wait_element_is_not_displayed|7586:: Waiting for element to disappear
+2025-08-21 10:16:22,589-DEBUG-root-26552::webapp_internal::close_news_screen|1509:: Closing news screen!
+2025-08-21 10:16:22,625-INFO-root-26552::webapp_internal::SetButton|4404:: Clicking on Incluir
+2025-08-21 10:16:22,627-DEBUG-root-26552::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-08-21 10:16:22,655-DEBUG-root-26552::webapp_internal::wait_blocker|2424:: Blocker status: None
+2025-08-21 10:16:25,911-DEBUG-root-26552::webapp_internal::wait_element_timeout|7755:: Element found! Waiting for element to be displayed.
+2025-08-21 10:16:26,542-DEBUG-root-26552::webapp_internal::SetButton|4441:: ***System Info*** Before Clicking on button:Incluir
+2025-08-21 10:16:26,543-DEBUG-root-26552::psutil_info::system_info|5:: CPU USAGE: 36.4%
+2025-08-21 10:16:26,543-DEBUG-root-26552::psutil_info::system_info|6:: MEMORY USAGE: 88.9%
+2025-08-21 10:16:26,544-DEBUG-root-26552::psutil_info::system_info|7:: MEMORY AVAILABLE: 11.14%
+2025-08-21 10:16:27,244-DEBUG-root-26552::webapp_internal::wait_element_timeout|7755:: Element found! Waiting for element to be displayed.
+2025-08-21 10:16:27,964-DEBUG-root-26552::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-08-21 10:16:28,119-DEBUG-root-26552::webapp_internal::wait_blocker|2424:: Blocker status: False
+2025-08-21 10:16:28,119-DEBUG-root-26552::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:16:28,123-DEBUG-root-26552::base::click|189:: Click Type: ClickType.JS
+2025-08-21 10:16:29,183-DEBUG-root-26552::webapp_internal::send_action|10523:: send_action method result = True
+2025-08-21 10:16:29,184-DEBUG-root-26552::webapp_internal::send_action|10524:: send_action selenium status: False
+2025-08-21 10:16:29,185-DEBUG-root-26552::webapp_internal::SetButton|4643:: ***System Info*** After Clicking on button:
+2025-08-21 10:16:29,186-DEBUG-root-26552::psutil_info::system_info|5:: CPU USAGE: 30.4%
+2025-08-21 10:16:29,186-DEBUG-root-26552::psutil_info::system_info|6:: MEMORY USAGE: 89.1%
+2025-08-21 10:16:29,187-DEBUG-root-26552::psutil_info::system_info|7:: MEMORY AVAILABLE: 10.9%
+2025-08-21 10:16:29,187-INFO-root-26552::webapp_internal::WaitShow|4940:: Waiting show text 'Atualizacao de Produtos - Incluir'...
+2025-08-21 10:16:41,695-INFO-root-26552::webapp_internal::WaitShow|4956:: Text found! 
+2025-08-21 10:16:41,696-DEBUG-root-26552::webapp_internal::SetFocus|5973:: Setting focus on element B1_DESC.
+2025-08-21 10:16:42,964-DEBUG-root-26552::base::click|189:: Click Type: ClickType.SELENIUM
+2025-08-21 10:16:43,049-DEBUG-root-26552::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-08-21 10:16:43,331-DEBUG-root-26552::webapp_internal::wait_blocker|2424:: Blocker status: None
+2025-08-21 10:16:43,331-INFO-root-26552::webapp_internal::SetKey|5784:: Key pressed: HOME
+2025-08-21 10:16:43,331-DEBUG-root-26552::webapp_internal::SetKey|5819:: Trying press key
+2025-08-21 10:16:45,521-DEBUG-root-26552::webapp_internal::wait_blocker|2399:: Waiting blocker to continue...
+2025-08-21 10:16:46,458-DEBUG-root-26552::webapp_internal::wait_blocker|2424:: Blocker status: False
+2025-08-21 10:16:46,458-DEBUG-root-26552::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:16:47,727-DEBUG-root-26552::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:16:48,936-DEBUG-root-26552::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:16:50,138-DEBUG-root-26552::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:16:51,387-DEBUG-root-26552::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:16:52,606-DEBUG-root-26552::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:16:53,774-DEBUG-root-26552::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:16:54,943-DEBUG-root-26552::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:16:56,117-DEBUG-root-26552::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:16:57,275-DEBUG-root-26552::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:16:58,447-DEBUG-root-26552::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:16:59,734-DEBUG-root-26552::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:17:00,920-DEBUG-root-26552::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:17:02,066-DEBUG-root-26552::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:17:03,275-DEBUG-root-26552::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:17:04,497-DEBUG-root-26552::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:17:05,681-DEBUG-root-26552::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:17:06,904-DEBUG-root-26552::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:17:08,129-DEBUG-root-26552::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:17:09,344-DEBUG-root-26552::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:17:10,500-DEBUG-root-26552::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:17:11,745-DEBUG-root-26552::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:17:12,954-DEBUG-root-26552::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:17:14,148-DEBUG-root-26552::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:17:15,323-DEBUG-root-26552::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:17:16,548-DEBUG-root-26552::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:17:17,731-DEBUG-root-26552::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:17:18,920-DEBUG-root-26552::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:17:20,087-DEBUG-root-26552::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:17:21,341-DEBUG-root-26552::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:17:22,655-DEBUG-root-26552::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:17:23,881-DEBUG-root-26552::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:17:25,084-DEBUG-root-26552::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:17:26,317-DEBUG-root-26552::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:17:27,507-DEBUG-root-26552::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:17:28,716-DEBUG-root-26552::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:17:29,926-DEBUG-root-26552::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:17:31,169-DEBUG-root-26552::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:17:32,384-DEBUG-root-26552::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:17:33,583-DEBUG-root-26552::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:17:34,871-DEBUG-root-26552::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:17:36,101-DEBUG-root-26552::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:17:37,307-DEBUG-root-26552::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:17:38,511-DEBUG-root-26552::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:17:39,719-DEBUG-root-26552::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:17:40,911-DEBUG-root-26552::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:17:42,100-DEBUG-root-26552::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:17:43,306-DEBUG-root-26552::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:17:44,460-DEBUG-root-26552::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:17:45,648-DEBUG-root-26552::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:17:46,942-DEBUG-root-26552::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:17:48,156-DEBUG-root-26552::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:17:49,369-DEBUG-root-26552::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:17:50,569-DEBUG-root-26552::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:17:51,781-DEBUG-root-26552::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:17:53,010-DEBUG-root-26552::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:17:54,269-DEBUG-root-26552::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:17:55,484-DEBUG-root-26552::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:17:56,667-DEBUG-root-26552::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:17:57,883-DEBUG-root-26552::webapp_internal::send_action|10482:: Trying to send action
+2025-08-21 10:17:59,209-DEBUG-root-26552::webapp_internal::send_action|10482:: Trying to send action
