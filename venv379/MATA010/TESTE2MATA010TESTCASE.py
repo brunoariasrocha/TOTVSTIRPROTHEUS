@@ -24,7 +24,6 @@ class TESTE2MATA010(unittest.TestCase):
         )
 
         self.oHelper.SetValue("B1_UM","UN")
-        self.oHelper.SetValue("B1_XAPRES","")
         self.oHelper.SetValue("B1_XMARCA","0412")
         self.oHelper.SetValue("B1_XCAT1","07")
         self.oHelper.SetValue("B1_XCAT2","28")
