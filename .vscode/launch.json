@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Rodar sem debug - venv379",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/venv379/MATA010/TESTE2MATA010TESTCASE.py",
+            "console": "integratedTerminal",
+            "python": "${workspaceFolder}/venv379/Scripts/python.exe",
+            "noDebug": true
+        }
+    ]
+}

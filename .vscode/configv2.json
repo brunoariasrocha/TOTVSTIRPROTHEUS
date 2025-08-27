@@ -1,0 +1,21 @@
+{   "Url": "https://lineagroprodutos143570.protheus.cloudtotvs.com.br:2203/webapp",
+
+    "Browser": "FireFox",
+
+    "Environment": "CG7XJ1_HMG",
+
+    "Language": "pt-br",
+
+    "User": "USER",
+
+    "Password": "123",
+
+    "CSVPath": "SEU_CAMINHO_CSV",
+    
+    "DebugLog": true,
+
+    "TimeOut": 90,
+
+    "Headless": false
+
+}
