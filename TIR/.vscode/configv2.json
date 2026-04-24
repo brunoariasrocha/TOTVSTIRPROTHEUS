@@ -1,0 +1,21 @@
+{   "Url": "Link WebApp da Empresa",
+
+    "Browser": "FireFox",
+
+    "Environment": "Ambiente da Empresa",
+
+    "Language": "pt-br",
+
+    "User": "USER",
+
+    "Password": "123",
+
+    "CSVPath": "SEU_CAMINHO_CSV",
+    
+    "DebugLog": true,
+
+    "TimeOut": 90,
+
+    "Headless": false
+
+}

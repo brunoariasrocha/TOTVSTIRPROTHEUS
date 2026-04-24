@@ -1,0 +1,14 @@
+{   
+    "Url": "Link Smartclient WebApp",
+    "Browser": "FireFox",
+    "Environment": "Ambiente da sua empresa",
+    "Language": "pt-br",
+    "POUILogin": true,
+    "User": "BRUNO.ROCHA",
+    "Password": "a123",
+    "CSVPath": "C:\\Users\\BrunoAriasRocha\\Documentos\\WORKSPACE\\TIR-1\\Log",
+    "ScreenShot": true,
+    "DebugLog": true,
+    "TimeOut": 90,
+    "Headless": false
+}
